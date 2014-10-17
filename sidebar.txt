@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmi:home|Door43 (hmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmi|d43-hmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmi/archive/master.zip|d43-hmi.zip]]
+
+**Recent Changes**
+{{changes>ns = hmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmi|Ethnologue data]]
+
